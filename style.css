@@ -1,0 +1,15 @@
+body{
+    background-color: palegreen;
+}
+#score{
+    margin-left: 20px;
+    font-size: 35px;
+}
+#timer{
+    margin-right: 20px;
+    font-size: 35px;
+    float: right;
+}
+#sketch_name{
+    color: darkseagreen;
+}
